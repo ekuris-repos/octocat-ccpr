@@ -14,14 +14,16 @@ octocat-ccpr/
   prompts/
     generation/
       octocat_supply_development.md      # Full-stack development prompt (Tier 2)
-    classification/
     extraction/
+      azure_functions_observability_config.md  # App Insights sampling patterns
+    classification/
     summarization/
     transformation/
   templates/
     prompt_template.md                   # Tier 2 prompt template
   docs/
     architecture-reference.md            # OctoCAT Supply architecture summary
+    azure-functions-observability-standards.md  # Observability standards from Quest IFA
 ```
 
 ## CCPR Tier 2 Features
